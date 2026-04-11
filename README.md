@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Faizan-Zaheer6/Faizan-Zaheer6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hi, I'm Faizan!
 
-Here are some ideas to get you started:
+### 🎓 BSCS Student at NUML | AI & Backend Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Current Projects:** Working 
+- 🐍 **Tech Stack:** Python, FastAPI, PostgreSQL, Flutter
+- 🔭 **Learning:** n
+- 💬 **Ask me about:** 
+
+### 🛠️ Languages and Tools:
+[![My Skills]
+
+### 📊 GitHub Stats:
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
