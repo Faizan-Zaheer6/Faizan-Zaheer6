@@ -5,8 +5,8 @@
 ### 🎓 BSCS Student at NUML | AI & Backend Enthusiast
 
 - 🛠️ **Current Projects:** Working 
-- 🐍 **Tech Stack:** Python, FastAPI, PostgreSQL, Flutter
-- 🔭 **Learning:** n
+- 🐍 **Tech Stack:** Python, FastAPI, PostgreSQL
+- 🔭 **Learning:** 
 - 💬 **Ask me about:** 
 
 ### 🛠️ Languages and Tools:
